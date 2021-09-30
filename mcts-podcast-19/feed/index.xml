@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: MCTS Podcast 19: The Lord&#8217;s Supper as a Means of Grace	</title>
+	<atom:link href="/mcts-podcast-19/feed/" rel="self" type="application/rss+xml" />
+	<link>/mcts-podcast-19/</link>
+	<description>Informed Scholarship with Pastoral Heart</description>
+	<lastBuildDate>Fri, 15 Jul 2011 03:44:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: Interview on Lord&#8217;s Supper as means of grace :		</title>
+		<link>/mcts-podcast-19/#comment-323</link>
+
+		<dc:creator><![CDATA[Interview on Lord&#8217;s Supper as means of grace :]]></dc:creator>
+		<pubDate>Fri, 15 Jul 2011 03:44:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mctsowensboro.org/?p=1071#comment-323</guid>
+
+					<description><![CDATA[[...] Baptist Churches of America General Assembly earlier this year. You can listen to the interview here and the sermon here.       Categories: Current Issues, Ecclesiology, Pastoral Theology, Systematic [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Baptist Churches of America General Assembly earlier this year. You can listen to the interview here and the sermon here.       Categories: Current Issues, Ecclesiology, Pastoral Theology, Systematic [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

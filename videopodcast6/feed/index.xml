@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Podcast 6: What is the glory of God?	</title>
+	<atom:link href="/videopodcast6/feed/" rel="self" type="application/rss+xml" />
+	<link>/videopodcast6/</link>
+	<description>Informed Scholarship with Pastoral Heart</description>
+	<lastBuildDate>Fri, 14 Jan 2011 19:07:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: michael crawford		</title>
+		<link>/videopodcast6/#comment-118</link>
+
+		<dc:creator><![CDATA[michael crawford]]></dc:creator>
+		<pubDate>Fri, 14 Jan 2011 19:07:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mctsowensboro.org/?p=558#comment-118</guid>
+
+					<description><![CDATA[Love the podcasts, sound and enjoyable.]]></description>
+			<content:encoded><![CDATA[<p>Love the podcasts, sound and enjoyable.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Robert Briggs		</title>
+		<link>/videopodcast6/#comment-117</link>
+
+		<dc:creator><![CDATA[Robert Briggs]]></dc:creator>
+		<pubDate>Thu, 06 Jan 2011 23:50:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mctsowensboro.org/?p=558#comment-117</guid>
+
+					<description><![CDATA[Enjoyed this little discussion....]]></description>
+			<content:encoded><![CDATA[<p>Enjoyed this little discussion&#8230;.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

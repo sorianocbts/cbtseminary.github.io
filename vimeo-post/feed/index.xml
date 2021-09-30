@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Vimeo post	</title>
+	<atom:link href="/vimeo-post/feed/" rel="self" type="application/rss+xml" />
+	<link>/vimeo-post/</link>
+	<description>Informed Scholarship with Pastoral Heart</description>
+	<lastBuildDate>Mon, 31 Mar 2014 21:14:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: HB-Themes		</title>
+		<link>/vimeo-post/#comment-420</link>
+
+		<dc:creator><![CDATA[HB-Themes]]></dc:creator>
+		<pubDate>Mon, 31 Mar 2014 21:14:52 +0000</pubDate>
+		<guid isPermaLink="false">http://hb-themes.com/themes/highend_wp/?p=75#comment-420</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/vimeo-post/#comment-419&quot;&gt;John&lt;/a&gt;.
+
+Praesent nibh urna, viverra vel volutpat vel, mollis eu magna. Praesent libero magna, volutpat vel ultrices malesuada, rutrum vel elit. In luctus mi id magna tincidunt aliquet. Sed eu tortor nisl, eu viverra mauris. Cras pellentesque ultricies volutpat.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/vimeo-post/#comment-419">John</a>.</p>
+<p>Praesent nibh urna, viverra vel volutpat vel, mollis eu magna. Praesent libero magna, volutpat vel ultrices malesuada, rutrum vel elit. In luctus mi id magna tincidunt aliquet. Sed eu tortor nisl, eu viverra mauris. Cras pellentesque ultricies volutpat.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: John		</title>
+		<link>/vimeo-post/#comment-419</link>
+
+		<dc:creator><![CDATA[John]]></dc:creator>
+		<pubDate>Mon, 31 Mar 2014 21:13:38 +0000</pubDate>
+		<guid isPermaLink="false">http://hb-themes.com/themes/highend_wp/?p=75#comment-419</guid>
+
+					<description><![CDATA[Wow, this video is amazing!]]></description>
+			<content:encoded><![CDATA[<p>Wow, this video is amazing!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

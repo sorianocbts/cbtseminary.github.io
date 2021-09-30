@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Gallery Post	</title>
+	<atom:link href="/gallery-post/feed/" rel="self" type="application/rss+xml" />
+	<link>/gallery-post/</link>
+	<description>Informed Scholarship with Pastoral Heart</description>
+	<lastBuildDate>Mon, 31 Mar 2014 21:38:40 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: Elisabeth		</title>
+		<link>/gallery-post/#comment-431</link>
+
+		<dc:creator><![CDATA[Elisabeth]]></dc:creator>
+		<pubDate>Mon, 31 Mar 2014 21:38:40 +0000</pubDate>
+		<guid isPermaLink="false">http://hb-themes.com/themes/highend_wp/?p=81#comment-431</guid>
+
+					<description><![CDATA[Those spices look tasty :)]]></description>
+			<content:encoded><![CDATA[<p>Those spices look tasty 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

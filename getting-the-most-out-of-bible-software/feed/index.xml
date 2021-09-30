@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Getting the Most out of Bible Software	</title>
+	<atom:link href="/getting-the-most-out-of-bible-software/feed/" rel="self" type="application/rss+xml" />
+	<link>/getting-the-most-out-of-bible-software/</link>
+	<description>Informed Scholarship with Pastoral Heart</description>
+	<lastBuildDate>Wed, 08 Dec 2010 21:33:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: Jim Barr		</title>
+		<link>/getting-the-most-out-of-bible-software/#comment-100</link>
+
+		<dc:creator><![CDATA[Jim Barr]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2010 21:33:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mctsowensboro.org/?p=486#comment-100</guid>
+
+					<description><![CDATA[Bob,
+The PC vs Mac platform issue is becoming less and less an issue. Accordance is a great program, but BibleWorks has many very satisfied users who run it on a Mac. Check out:
+
+http://www.bibleworks.com/content/sys-req.html]]></description>
+			<content:encoded><![CDATA[<p>Bob,<br />
+The PC vs Mac platform issue is becoming less and less an issue. Accordance is a great program, but BibleWorks has many very satisfied users who run it on a Mac. Check out:</p>
+<p><a href="http://www.bibleworks.com/content/sys-req.html" rel="nofollow ugc">http://www.bibleworks.com/content/sys-req.html</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Bob Gonzales		</title>
+		<link>/getting-the-most-out-of-bible-software/#comment-99</link>
+
+		<dc:creator><![CDATA[Bob Gonzales]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2010 16:51:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mctsowensboro.org/?p=486#comment-99</guid>
+
+					<description><![CDATA[I&#039;m disappointed Bibleworks hasn&#039;t developed a Mac version. So I&#039;m switching to Accordance. Anyone interested in purchasing my Bibleworks 7?
+
+Bob Gonzales
+rgonz985@gmail.com]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m disappointed Bibleworks hasn&#8217;t developed a Mac version. So I&#8217;m switching to Accordance. Anyone interested in purchasing my Bibleworks 7?</p>
+<p>Bob Gonzales<br />
+<a href="mailto:rgonz985@gmail.com">rgonz985@gmail.com</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Lawson&#8217;s rebuke of Osteen	</title>
+	<atom:link href="/lawson/feed/" rel="self" type="application/rss+xml" />
+	<link>/lawson/</link>
+	<description>Informed Scholarship with Pastoral Heart</description>
+	<lastBuildDate>Thu, 17 Mar 2011 11:28:03 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: Daniel Kush		</title>
+		<link>/lawson/#comment-208</link>
+
+		<dc:creator><![CDATA[Daniel Kush]]></dc:creator>
+		<pubDate>Thu, 17 Mar 2011 11:28:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mctsowensboro.org/?p=754#comment-208</guid>
+
+					<description><![CDATA[I was there when he preached this at ShepCon &#039;09. Wow.]]></description>
+			<content:encoded><![CDATA[<p>I was there when he preached this at ShepCon &#8217;09. Wow.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ron Miller		</title>
+		<link>/lawson/#comment-207</link>
+
+		<dc:creator><![CDATA[Ron Miller]]></dc:creator>
+		<pubDate>Mon, 14 Mar 2011 01:04:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mctsowensboro.org/?p=754#comment-207</guid>
+
+					<description><![CDATA[Mr. Osteen needs to repent and believe or his &quot;I don&#039;t know&quot; will lead to Christ&#039;s &quot;I never knew you&quot;.]]></description>
+			<content:encoded><![CDATA[<p>Mr. Osteen needs to repent and believe or his &#8220;I don&#8217;t know&#8221; will lead to Christ&#8217;s &#8220;I never knew you&#8221;.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

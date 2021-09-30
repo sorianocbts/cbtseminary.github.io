@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: A Problem with the Doctrine of Infant Baptism in the Westminster Standards	</title>
+	<atom:link href="/a-problem-with-the-doctrine-of-infant-baptism-in-the-westminster-standards/feed/" rel="self" type="application/rss+xml" />
+	<link>/a-problem-with-the-doctrine-of-infant-baptism-in-the-westminster-standards/</link>
+	<description>Informed Scholarship with Pastoral Heart</description>
+	<lastBuildDate>Thu, 15 Jul 2010 01:29:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+</channel>
+</rss>

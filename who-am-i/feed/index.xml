@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Who am I?	</title>
+	<atom:link href="/who-am-i/feed/" rel="self" type="application/rss+xml" />
+	<link>/who-am-i/</link>
+	<description>Informed Scholarship with Pastoral Heart</description>
+	<lastBuildDate>Fri, 01 Oct 2010 13:46:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: Jim Butler		</title>
+		<link>/who-am-i/#comment-16</link>
+
+		<dc:creator><![CDATA[Jim Butler]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2010 13:46:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mctsowensboro.org/wp/?p=151#comment-16</guid>
+
+					<description><![CDATA[Yes he does.  
+
+Send my prize (books of course) to my home address :-)
+
+jpb]]></description>
+			<content:encoded><![CDATA[<p>Yes he does.  </p>
+<p>Send my prize (books of course) to my home address 🙂</p>
+<p>jpb</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Richard Barcellos		</title>
+		<link>/who-am-i/#comment-15</link>
+
+		<dc:creator><![CDATA[Richard Barcellos]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2010 04:03:40 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mctsowensboro.org/wp/?p=151#comment-15</guid>
+
+					<description><![CDATA[Does he remind you of Someone?]]></description>
+			<content:encoded><![CDATA[<p>Does he remind you of Someone?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jim Butler		</title>
+		<link>/who-am-i/#comment-14</link>
+
+		<dc:creator><![CDATA[Jim Butler]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2010 03:54:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mctsowensboro.org/wp/?p=151#comment-14</guid>
+
+					<description><![CDATA[Phineas...]]></description>
+			<content:encoded><![CDATA[<p>Phineas&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

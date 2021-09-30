@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Self hosted audio post	</title>
+	<atom:link href="/self-hosted-audio-post/feed/" rel="self" type="application/rss+xml" />
+	<link>/self-hosted-audio-post/</link>
+	<description>Informed Scholarship with Pastoral Heart</description>
+	<lastBuildDate>Mon, 31 Mar 2014 22:59:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: HB-Themes		</title>
+		<link>/self-hosted-audio-post/#comment-405</link>
+
+		<dc:creator><![CDATA[HB-Themes]]></dc:creator>
+		<pubDate>Mon, 31 Mar 2014 22:59:01 +0000</pubDate>
+		<guid isPermaLink="false">http://hb-themes.com/themes/highend_wp/?p=96#comment-405</guid>
+
+					<description><![CDATA[Maecenas sodales arcu est. Ut at nibh velit. Aenean tristique mauris vel eros aliquam sollicitudin.]]></description>
+			<content:encoded><![CDATA[<p>Maecenas sodales arcu est. Ut at nibh velit. Aenean tristique mauris vel eros aliquam sollicitudin.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

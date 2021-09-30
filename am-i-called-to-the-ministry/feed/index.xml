@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Am I Called to the Ministry?	</title>
+	<atom:link href="/am-i-called-to-the-ministry/feed/" rel="self" type="application/rss+xml" />
+	<link>/am-i-called-to-the-ministry/</link>
+	<description>Informed Scholarship with Pastoral Heart</description>
+	<lastBuildDate>Fri, 08 Jul 2011 14:16:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: Midwest Center for Theological Studies: Owensboro, KY &#62; Blog &#62; Understanding Pastoral Searches		</title>
+		<link>/am-i-called-to-the-ministry/#comment-315</link>
+
+		<dc:creator><![CDATA[Midwest Center for Theological Studies: Owensboro, KY &#62; Blog &#62; Understanding Pastoral Searches]]></dc:creator>
+		<pubDate>Fri, 08 Jul 2011 14:16:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mctsowensboro.org/?p=1043#comment-315</guid>
+
+					<description><![CDATA[[...] recently blogged about a series of videos on discerning a ministry call. This week, the Gospel Coalition has followed up with another helpful series on pastoral searches [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] recently blogged about a series of videos on discerning a ministry call. This week, the Gospel Coalition has followed up with another helpful series on pastoral searches [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Consummation	</title>
+	<atom:link href="/the-consummation/feed/" rel="self" type="application/rss+xml" />
+	<link>/the-consummation/</link>
+	<description>Informed Scholarship with Pastoral Heart</description>
+	<lastBuildDate>Wed, 04 May 2011 15:05:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: Nick Kennicott		</title>
+		<link>/the-consummation/#comment-264</link>
+
+		<dc:creator><![CDATA[Nick Kennicott]]></dc:creator>
+		<pubDate>Wed, 04 May 2011 15:05:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mctsowensboro.org/?p=860#comment-264</guid>
+
+					<description><![CDATA[Excellent word - Praise God!]]></description>
+			<content:encoded><![CDATA[<p>Excellent word &#8211; Praise God!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Andrew Suttles		</title>
+		<link>/the-consummation/#comment-263</link>
+
+		<dc:creator><![CDATA[Andrew Suttles]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2011 17:16:08 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mctsowensboro.org/?p=860#comment-263</guid>
+
+					<description><![CDATA[Amen!]]></description>
+			<content:encoded><![CDATA[<p>Amen!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

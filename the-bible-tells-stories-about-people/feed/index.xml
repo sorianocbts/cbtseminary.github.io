@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Remarkable Career of John Mark And What it Says Especially to Pastors &#038; Pastoral Students: Pt. 1 &#8211; The Bible Tells Stories About People	</title>
+	<atom:link href="/the-bible-tells-stories-about-people/feed/" rel="self" type="application/rss+xml" />
+	<link>/the-bible-tells-stories-about-people/</link>
+	<description>Informed Scholarship with Pastoral Heart</description>
+	<lastBuildDate>Tue, 21 Apr 2020 22:00:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+</channel>
+</rss>

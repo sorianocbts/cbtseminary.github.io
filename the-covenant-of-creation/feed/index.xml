@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Covenant of Creation	</title>
+	<atom:link href="/the-covenant-of-creation/feed/" rel="self" type="application/rss+xml" />
+	<link>/the-covenant-of-creation/</link>
+	<description>Informed Scholarship with Pastoral Heart</description>
+	<lastBuildDate>Tue, 17 May 2011 20:28:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: Rich B.		</title>
+		<link>/the-covenant-of-creation/#comment-290</link>
+
+		<dc:creator><![CDATA[Rich B.]]></dc:creator>
+		<pubDate>Tue, 17 May 2011 20:28:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mctsowensboro.org/?p=943#comment-290</guid>
+
+					<description><![CDATA[I agree with Pastor Waters.]]></description>
+			<content:encoded><![CDATA[<p>I agree with Pastor Waters.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mike Waters		</title>
+		<link>/the-covenant-of-creation/#comment-289</link>
+
+		<dc:creator><![CDATA[Mike Waters]]></dc:creator>
+		<pubDate>Tue, 17 May 2011 20:18:40 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mctsowensboro.org/?p=943#comment-289</guid>
+
+					<description><![CDATA[Excellent. Very helpful. Thank you.]]></description>
+			<content:encoded><![CDATA[<p>Excellent. Very helpful. Thank you.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
