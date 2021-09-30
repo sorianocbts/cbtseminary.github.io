@@ -1,0 +1,19 @@
+version: '3'
+services:
+  cbtsstatic:
+    container_name: cbtsstatic
+    environment:
+      - NODE_ENV=${NODE_ENV}
+    restart: always
+    build: .
+    expose:
+      - 80
+    restart: always
+    environment:
+      VIRTUAL_HOST: ${DOMAIN}
+      LETSENCRYPT_HOST: ${DOMAIN}
+      LETSENCRYPT_EMAIL: ${EMAIL}
+networks:
+  default:
+    external:
+      name: nginx-proxy
